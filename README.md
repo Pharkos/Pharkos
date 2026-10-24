@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Vakhtang 👋
 
-<!--
-**Pharkos/Pharkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Full-Stack Developer based in Italy**, open to on-site, hybrid or remote roles.
 
-Here are some ideas to get you started:
+I come from 8 years of work in hospitality and a period in IT technical operations (Linux, servers, hardware support). Now I build web applications, focusing on understanding *why* a solution works, not just *how*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Backend:** PHP · Laravel · C# · ASP.NET · Entity Framework Core · REST APIs
+- **Frontend:** JavaScript · TypeScript · React · Redux · HTML · CSS/Sass · Bootstrap
+- **Databases:** MySQL / MariaDB · SQL Server
+- **Tools:** Git · GitHub · VS Code · Composer · npm · Linux
+
+### 🚧 Currently working on
+
+**[laravel-auth-posts](https://github.com/Pharkos/laravel-auth-posts)**: a Laravel 12 app with authentication, posts CRUD and ownership-based authorization (Policies). I'm improving it step by step: Form Requests, tests and deployment are next.
+
+### 🎓 Training
+
+- **Full-Stack Developer**, EPICODE (2025–2026)
+- **Sviluppatore Full Stack**, Forma.Temp, 212 h (2026)
+
+### 🌍 Languages
+
+Georgian (native) · Italian (C1) · English (C1) · Russian (B2)
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/pharkos) · pharkosocial@outlook.com
